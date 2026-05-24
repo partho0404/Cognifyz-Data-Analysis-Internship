@@ -47,11 +47,8 @@ The analysis includes:
 Data-Analysis-Internship/
 
     │ 
-    
     ├── Level_1.ipynb 
-    
     ├── Level_2.ipynb 
-    
     ├── Final_Report.pdf
     
 ---
