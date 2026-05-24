@@ -45,10 +45,15 @@ The analysis includes:
 
 ##  Project Structure
 Data-Analysis-Internship/
+
     │ 
+    
     ├── Level_1.ipynb 
+    
     ├── Level_2.ipynb 
+    
     ├── Final_Report.pdf
+    
 ---
 
 ##  How to Run
